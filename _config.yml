@@ -1,11 +1,11 @@
 # Basic
-title: GcsSloop
-subtitle: Just do IT later.
-welcome_message: 欢迎来到我的魔法世界! 
-description: 嗨，我是 GcsSloop，一名来自2.5次元的魔法师，Android自定义View系列文章作者，非著名程序员。
-creator: <a href="http://www.GcsSloop.com">@GcsSloop</a>
+title: ZPluto0705
+subtitle: 绚烂而璀璨的极光。
+welcome_message: 欢迎来到我的世界。 
+description: <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
+creator: <a href="https://www.zpluto.top">@GcsSloop</a>
 
-url: "http://www.gcssloop.com"
+url: "https://www.zpluto.top"
 
 permalink: /:categories/:title
 
@@ -18,14 +18,11 @@ redcarpet:
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 cover_color: slate
 
-blog_button:
-    title: 博客
-    description: 访问博客
 
 nav:
-    - {title: GitHub,     in_site: false,  description: GcsSloop's GitHub,    url: 'https://github.com/GcsSloop'}
-    - {title: 目录,        in_site: true,  description: 博客目录,               url: '/timeline'}
-    - {title: 关于,        in_site: true,  description: 关于作者 GcsSloop,       url: '/info/about'}
+    - {title: 博客,     in_site: true,  description: 博客,    url: 'https://blog.zpluto.top'}
+    - {title: 监控,        in_site: true,  description: 网站监控,               url: 'https://status.zpluto.top'}
+    - {title: 关于,        in_site: true,  description: 关于作者,       url: 'https://blog.zpluto.top/index.php/aboutme.html'}
     
 
 
@@ -52,6 +49,6 @@ social:
     copyright: http://choosealicense.online
 
 # Google Analytics
-ga:
-    id: UA-82493667-1
-    host: www.gcssloop.com
+#ga:
+#    id: UA-82493667-1
+#    host: www.gcssloop.com
